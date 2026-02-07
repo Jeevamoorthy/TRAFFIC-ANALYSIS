@@ -20,7 +20,7 @@ This project provides a complete solution for real-time vehicle detection, track
 ## Tech Stack
 
 -   **Python 3**
--   **Ultralytics YOLOv8**: For state-of-the-art object detection.
+-   **custom YOLO model**: For state-of-the-art object detection.
 -   **OpenCV**: For video processing, drawing, and visualization.
 -   **SORT Algorithm**: For efficient and real-time object tracking.
 -   **NumPy**: For numerical operations.
